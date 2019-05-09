@@ -1,0 +1,16 @@
+@charset "utf-8";
+#aboutme   {
+	background-color: #31384a;
+	color: #FFFFFF;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#aboutme .col-lg-2.col-xs-12 img {
+	margin-right: auto;
+	margin-left: auto;
+}
+#lastdata {
+	height: 100px;
+	background-color: #B4B4B4;
+	padding-top: 10px;
+}
